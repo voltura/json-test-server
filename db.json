@@ -1,5 +1,7 @@
 {
-    "rock": "hard",
-    "paper": "soft",
-    "num": 23
+    "papertrail": {
+        "rock": "hard",
+        "paper": "soft",
+        "num": 23
+    }
 }
